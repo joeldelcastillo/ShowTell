@@ -1,0 +1,8 @@
+.done-true {
+  text-decoration: line-through;
+  color: gray;
+}
+
+body {
+  padding: 5rem;
+}
